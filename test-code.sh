@@ -1,4 +1,4 @@
-GH_TOKEN=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
+GH_TOKEN=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
 
 echo $GH_TOKEN | gh auth login --with-token 
 
